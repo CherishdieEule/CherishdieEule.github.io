@@ -11,26 +11,25 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in Mathematics, CUHKSZ, 2025 (expected)
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Research Assistant
+  * Network Communications and Economics Lab, 2024
+  * Project: PDE-Informed Deep Learning for Regional Extreme Weather Prediction
+  * Supervisor: Prof. Huang Jianwei
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Undergraduate Student Teaching Fellow (USTF)
+  * The Chinese University of Hong Kong, Shenzhen, Fall 2024
+  * Course: MAT3040 Advanced Linear Algebra
+  * Instructor: Prof. Luo Caihua
+ 
+* Undergraduate Student Teaching Fellow (USTF)
+  * The Chinese University of Hong Kong, Shenzhen, Fall 2023
+  * Course: MAT2001 Honors Ordinary Differential Equations
+  * Instructor: Prof. Ni Wei-Ming
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
