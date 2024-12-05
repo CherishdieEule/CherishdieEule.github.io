@@ -10,9 +10,9 @@
 locale                   : "en-US"
 title                    : "Xu Chenrui / Personal Website"
 title_separator          : "-"
-name                     : &name "Xu Chenrui"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://CherishdieEule.github.io"
+name                     : "Xu Chenrui"
+description              : "personal description"
+url                      : "https://CherishdieEule.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "CherishdieEule/CherishdieEule.github.io"
 
