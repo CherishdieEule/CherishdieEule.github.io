@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 1"
+title: "Undergraduate Student Teaching Fellow"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2024-fall-Advanced-Linear-Algebra
