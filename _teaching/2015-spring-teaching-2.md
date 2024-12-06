@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "Undergraduate Student Teaching Fellow"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Undergraduate course"
+permalink: /teaching/2023-fall-Honors Ordinary Differential Equations
+venue: "CUHKsz, School of science and Engineering"
+date: 2023-9-1 to 2023-12-22
+location: "Shenzhen, China"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
